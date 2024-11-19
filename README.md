@@ -17,6 +17,9 @@ change the above model files path in colorize.py according to your folder locati
 
 Suggested python version - 3.10.11
 
+To clone this repository you can use this syntax
+
+    git clone https://github.com/ramcharantejpuli/Colorization.git
 
 
 Download/install dependencies from requirements.txt
@@ -29,7 +32,8 @@ Now open terminal or command prompt and change directory to the project folder b
 cd <path_directory>
 now run the below command
 | | | | | | | | | | | | | | | | | | | | | | | 
-python colorize.py -i images/path_of_image.jpg
+     
+    python colorize.py -i images/path_of_image.jpg
 
 Colorize! This script will colorize an image. The results should match the images in the imgs_out folder.
 ------------------------------------------------------------------------------------------------------------------------------------------------
