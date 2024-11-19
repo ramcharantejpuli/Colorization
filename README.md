@@ -17,8 +17,13 @@ change the above model files path in colorize.py according to your folder locati
 
 Suggested python version - 3.10.11
 
+
+
 Download/install dependencies from requirements.txt
-Syntax - pip install requirements.txt
+Syntax - 
+
+
+    pip install requirements.txt
 
 Now open terminal or command prompt and change directory to the project folder by 
 cd <path_directory>
